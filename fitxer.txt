@@ -1,2 +1,6 @@
 HOla
+<<<<<<< HEAD
 Contingut
+=======
+hola
+>>>>>>> branca2
